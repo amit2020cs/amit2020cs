@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**amit2020cs/amit2020cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working from home.
 - 🌱 I’m currently learning Algo Trading
 - 👯 I’m looking to collaborate on building cool products.
