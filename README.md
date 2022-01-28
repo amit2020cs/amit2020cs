@@ -7,7 +7,7 @@
 - 📫 How to reach me: amit2020cs@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Live free
-- 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=amit2020cs&theme=vue)
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=amit2020cs&theme=vue)
 - ![counter](https://enmx36bedw043ya.m.pipedream.net)
