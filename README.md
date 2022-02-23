@@ -15,7 +15,7 @@
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit2020cs&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Amit github activity graph](https://activity-graph.herokuapp.com/graph?username=amit2020cs&theme=vue)](https://github.com/amit2020cs/github-readme-activity-graph)
+[![Amit github activity graph](https://activity-graph.herokuapp.com/graph?username=amit2020cs&layout=compact&theme=vue)](https://github.com/amit2020cs/github-readme-activity-graph)
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=amit2020cs&layout=compact&theme=vue&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
