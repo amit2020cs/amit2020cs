@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working from home.
+- 🔭 I’m currently working as Software Engineer at Valorant.
 - 🌱 I’m currently learning Algo Trading
 - 👯 I’m looking to collaborate on building Algo Trading products for hedge fund.
 - 💬 Ask me about  Ml Algorithm 
