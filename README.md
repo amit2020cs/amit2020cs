@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as Software Engineer at Valorant.
 - 🌱 I’m currently learning Algo Trading
 - 👯 I’m looking to collaborate on building Algo Trading products for hedge fund.
-- 💬 Ask me about  Ml Algorithm 
 - 📫 How to reach me: amit2020cs@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Live free
