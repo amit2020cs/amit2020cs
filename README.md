@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Sr. Data Science Engineer at Bajaj Finserv .
+- 🔭 I’m currently working as Sr. Data Scientist at Bajaj Finserv.
 - 🌱 I’m currently learning Algo Trading.
-- 👯 I’m looking to collaborate on building Algo Trading products for hedge fund.
+- 👯 I’m looking to collaborate on building Algo Trading products for hedge funds.
 - 📫 How to reach me: amit2020cs@gmail.com.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Live Free.
