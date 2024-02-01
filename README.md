@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Live Free.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=amit2020cs&theme=vue)
- ![Github stats](https://github-readme-stats.vercel.app/api?username=amit2020cs&theme=vue)
+ <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=amit2020cs&theme=vue) -->
  ![counter](https://enmx36bedw043ya.m.pipedream.net)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit2020cs&theme=vue)](https://git.io/streak-stats)
 
